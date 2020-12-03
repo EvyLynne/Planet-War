@@ -1,6 +1,6 @@
 # Planet-War
 Project to practice Full Stack Java Programming
-Upon passing the first round of interviewing at Fidelity, I decided to put the interviewer's recommendations to practical use and write a small Object Oriented Full Stack project in Java to prepare for my second interview.  The goals of this project are to review and refresh:
+A small Object Oriented Full Stack project in Java.  The goals of this project are to review and refresh:
 Practical software design principles
 Practial application of Java using the 4 principles of Object Oriented Coding:
   1. Encapsulation
