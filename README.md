@@ -20,7 +20,7 @@ Each planet has orbit, mass, diameter, gravity and population as minimal charact
 and https://solarsystem.nasa.gov/planets/in-depth/  I added population to all planets. 
 
 Since some of this is science fiction, I took the Earth's current population of 7.8 billion [https://www.worldometers.info/world-population/] and extrapolated populations for the remaining seven planets. I gave Mercury extra weapons to get it a better chance at survival.  I underpopulated Jupiter so it wouldn't always dominate.  I start each planet with a full arsenal of torpedos and strength.  To keep this project simple, each torpedo kills 1 billion people and a planet is considered lost when it is out of torpedoes or lost half of its population or more.  In the event of a tie, the system autmoatically rolls a random number and assigns a winner. 
-To keep the math simple, I flattened out the solar system onto Euclidean space so that the distance formula between any two planets is the distance between two points. D = SQRT [( y2 - y1 ) squared + ( x2 - x1 ) squared].  The unit of measure for planetary distance from the sun is Astronomical Units to avoid memory overflow. 
+To keep the math simple, I flattened out the solar system onto Euclidean space so that the distance formula between any two planets is the distance between two points. D = SQRT [( y2 - y1 ) squared + ( x2 - x1 ) squared].  The unit of measure for planetary distance from the sun is Astronomical Units to avoid memory overflow.  To further simplify things, I used the distance from the sun as the orbit and did not take into account the differences in orbit. 
 
 Basic gameplay:
 0. Computer randomly places planets in their orbits around sun.
@@ -30,5 +30,7 @@ Basic gameplay:
 4. If the torpedo hits the sun, it is destroyed and the planet that fired loses the torpedo; else if the torpedo hits the target 1 billion people are killed. 
 5. If the target drops to half the original population or less, it is removed from gameplay. 
 6. Game continues until one team loses all planets. 
+
+
 
 
