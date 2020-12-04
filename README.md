@@ -34,3 +34,7 @@ Basic gameplay:
 
 I used my college textbook, Software Engineering 10th edition by Ian Sommerville starting at page 198 for design guidelines for a software system. I downloaded a free trial copy of SmartDraw 2020 to create the diagrams. 
 
+
+Online resources used while researching this: 
+Geeks For Geeks
+Wikipedia Design Patterns - Patterns by Type https://en.wikipedia.org/wiki/Design_Patterns#Patterns_by_type
