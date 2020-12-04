@@ -32,5 +32,5 @@ Basic gameplay:
 6. Game continues until one team loses all planets. 
 
 
-
+I used my college textbook, Software Engineering 10th edition by Ian Sommerville starting at page 198 for design guidelines for a software system. 
 
