@@ -25,6 +25,7 @@ Since Mercury and Neptune were so small, I gave them extra weapons to prevent re
 To keep the math simple, I flattened out the solar system onto Euclidean space so that the distance formula between any two planets is the distance between two points. D = SQRT [( y2 - y1 ) squared + ( x2 - x1 ) squared].  The unit of measure for planetary distance from the sun is Astronomical Units to avoid memory overflow.  To further simplify things, I used the distance from the sun as the orbit and did not take into account the differences in orbit. 
 
 Basic gameplay:
+
 0. Computer randomly places planets in their orbits around sun.
 1. Computer randomly assigns planets to two teams.  Player can reassign or accept default setting.
 2. Player can chose starting team or allow computer to randomly start. 
