@@ -39,5 +39,10 @@ I used my college textbook, Software Engineering 10th edition by Ian Sommerville
 
 
 Online resources used while researching this: 
+
 Geeks For Geeks
+
 Wikipedia Design Patterns - Patterns by Type https://en.wikipedia.org/wiki/Design_Patterns#Patterns_by_type
+W3Schools Java Language Reference
+UML Class Diagram Tutorial: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/
+
