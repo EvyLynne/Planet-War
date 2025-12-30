@@ -15,7 +15,7 @@ Agile Development
 Requirements:
 The planets in our solar system have taken sides in two teams and are trying to fight to win control over the Sun's energy.  This assumes all the planets are populated and have some resources.  I've set it up similar to the States voting for President in the USA.   
 
-The Sun emits 384.6 yotta watts (3846 * 1026 watts) of energy per  https://ag.tennessee.edu/solar/Pages/What%20Is%20Solar%20Energy/Sun%27s%20Energy.aspx#:~:text=The%20Sun%20releases%20an%20estimated,radius%20of%20approximately%2093%2C000%2C000%20miles.  
+The Sun's luminosity is approximately 3.86 x 1026 watts of power radiated out into space. <br>[https://ag.tennessee.edu/solar/Pages/What%20Is%20Solar%20Energy/Sun%27s%20Energy.aspx#:~:text=The%20Sun%20releases%20an%20estimated,radius%20of%20approximately%2093%2C000%2C000%20miles.  ](https://www.sws.bom.gov.au/Educational/2/1/12)
 Each planet has orbit, mass, diameter, gravity and population as minimal characteristics.  Some have optional satellite moon(s) and rings per https://en.wikipedia.org/wiki/Planet
 and https://solarsystem.nasa.gov/planets/in-depth/  I added population to all planets. 
 
