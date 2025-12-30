@@ -1,7 +1,7 @@
 # Planet-War
 ### Purpose:
 This is a project to practice Full Stack Java Programming for ITT-Technical Institute Software and Applications Programming Associate Class.  Approximately 2008. <br>
-A small Object Oriented Full Stack project in Java.  
+A small Object Oriented Full Stack project written in Java.  <br>
 The goals of this project are to review and refresh:
 Practical software design principles
 Practial application of Java using the 4 principles of Object Oriented Coding:
