@@ -49,6 +49,6 @@ Online resources used while researching this:
 Geeks For Geeks: https://www.geeksforgeeks.org/java/object-oriented-programming-oops-concept-in-java/ <br>
 
 Wikipedia Design Patterns - Patterns by Type https://en.wikipedia.org/wiki/Design_Patterns#Patterns_by_type <br>
-W3Schools Java Language Reference <br>
+W3Schools Java Language Reference https://www.w3schools.com/java/<br>
 UML Class Diagram Tutorial: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/ <br>
 
