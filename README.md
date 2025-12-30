@@ -13,7 +13,7 @@ Practial application of Java using the 4 principles of Object Oriented Coding:
 Software Development Lifecycle
 Agile Development
 
-Requirements:
+## Description:
 The planets in our solar system have taken sides in two teams and are trying to fight to win control over the Sun's energy.  This assumes all the planets are populated and have some resources.  I've set it up similar to the States voting for President in the USA.   
 
 The Sun's luminosity is approximately 3.86 x 1026 watts of power radiated out into space. <br>[https://ag.tennessee.edu/solar/Pages/What%20Is%20Solar%20Energy/Sun%27s%20Energy.aspx#:~:text=The%20Sun%20releases%20an%20estimated,radius%20of%20approximately%2093%2C000%2C000%20miles.  ](https://www.sws.bom.gov.au/Educational/2/1/12)
@@ -24,6 +24,11 @@ Since some of this is science fiction, I took the Earth's current population of 
 
 Since Mercury and Neptune were so small, I gave them extra weapons to prevent repated loss from gameplay early on.  Since Jupiter and Saturn were much larger, I underpopulated them so they wouldn't always dominate gameplay. <br> I start each planet with a full arsenal of torpedos and strength.  To keep this project simple, each torpedo kills 1 billion people and a planet is considered lost when it is out of torpedoes or lost half of its population or more.  In the event of a tie, the system autmoatically rolls a random number and assigns a winner. 
 To keep the math simple, I flattened out the solar system onto Euclidean space so that the distance formula between any two planets is the distance between two points. D = SQRT [( y2 - y1 ) squared + ( x2 - x1 ) squared].  The unit of measure for planetary distance from the sun is Astronomical Units to avoid memory overflow.  To further simplify things, I used the distance from the sun as the orbit and did not take into account the differences in orbit. 
+
+## Note:
+There are logic problems in the implementation that were never completely fixed. <br>
+
+## Logic:
 
 Basic gameplay:
 
@@ -41,9 +46,9 @@ I used my college textbook, Software Engineering 10th edition by Ian Sommerville
 
 Online resources used while researching this: 
 
-Geeks For Geeks
+Geeks For Geeks: https://www.geeksforgeeks.org/java/object-oriented-programming-oops-concept-in-java/ <br>
 
-Wikipedia Design Patterns - Patterns by Type https://en.wikipedia.org/wiki/Design_Patterns#Patterns_by_type
-W3Schools Java Language Reference
-UML Class Diagram Tutorial: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/
+Wikipedia Design Patterns - Patterns by Type https://en.wikipedia.org/wiki/Design_Patterns#Patterns_by_type <br>
+W3Schools Java Language Reference <br>
+UML Class Diagram Tutorial: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/ <br>
 
